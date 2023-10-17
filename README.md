@@ -232,13 +232,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ![image](https://user-images.githubusercontent.com/118343978/244739968-40fc4abc-830f-4bb6-a977-163a09485a06.png)
 
-Pulse at 500 :
+#### Pulse at 500 :
 ![image](https://user-images.githubusercontent.com/118343978/244740028-e4402edc-1281-491d-bdb8-e0df488893c4.png)
 
-Pulse at 7200 :
+#### Pulse at 7200 :
 ![image](https://user-images.githubusercontent.com/119091638/273809435-7ed3ad09-ab1c-4c8f-bca2-eb464731147a.jpg)
 
-Pulse at 6500 :
+#### Pulse at 6500 :
 ![image](https://github.com/Aakash-suresh/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/raw/main/1.png)
 
  
